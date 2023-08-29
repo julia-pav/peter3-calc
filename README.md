@@ -1,4 +1,4 @@
-Hello world! The source code for this app comes from github of my mentor https://github.com/vrakitine to whom I am very grateful for our collaboration! So let's get started!
+Hello, world! The source code for this app comes from github of my mentor https://github.com/vrakitine to whom I am very grateful for our collaboration! So let's get started!
 
 # Mini Calculator
 
